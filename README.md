@@ -26,6 +26,6 @@ Currently, I’m diving into **backend development** to become a full-stack web 
 
 ## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/aman-kumar-438258316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- [Portfolio Website](https://github.com/amankr01/amankr01/)
+- [Portfolio Website](https://amankr01.github.io/Portfolio/)
 
 Thanks for stopping by!
